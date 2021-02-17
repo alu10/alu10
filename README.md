@@ -6,5 +6,5 @@ I am a student wanting to learn and at the moment I know a lot of HTML things al
 
 ### Where to find me?
 
--[Twitter] (https://twitter.com/SalixBabylonic8)
--[Discord] (https://discord.com/channels/@me)
+- [Twitter](https://twitter.com/SalixBabylonic8)
+- [Discord](https://discord.com/channels/@me)
